@@ -4,7 +4,7 @@ export function App() {
   
   return (
     <>
-      Teste
+      Teste 2
     </>
   )
 }
