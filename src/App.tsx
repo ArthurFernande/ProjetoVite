@@ -1,12 +1,11 @@
-
+import { AppRoute } from "./routes/routes";
 
 export function App() {
-  
   return (
     <>
-      Teste 2
+      <AppRoute />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
